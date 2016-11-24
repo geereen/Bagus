@@ -15,7 +15,7 @@ $i=1;
 <!DOCTYPE html>
 <html lang="th">
   <head>
-    <link rel="shortcut icon" href="../images/logo/logo.ico" />
+    <link rel="shortcut icon" href="../images/logo/555.ico" />
     <!-- Meta, title, CSS, favicons, etc. -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
