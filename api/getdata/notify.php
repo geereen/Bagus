@@ -18,7 +18,7 @@ $query->execute([
     }
     print(json_encode(array('data' => $output,'num' => $i)));
   }else {
-    print(json_encode(array('data'=>'','num'=>'')));
+    print(json_encode(array('data'=>'','num'=>null)));
   }
 ?>
 <?php $db = null; //ปิดฐานข้อมูล ?>
